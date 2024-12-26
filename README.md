@@ -5,9 +5,10 @@ This project enables **MouseJacking attacks** using the RF24 module with an Ardu
 **For Educational and Research Purposes Only:**  
 This project is intended to educate and assist researchers in understanding the vulnerabilities of wireless keyboards. Use responsibly, ensuring compliance with all applicable laws and ethical guidelines.
 
-![RF-Nano](images/1.png)
-
----
+<div align="center">
+<img src="images/1.png" alt="RF-Nano" />
+</div>
+  ---
 
 ## Getting Started
 
@@ -20,7 +21,7 @@ This project is intended to educate and assist researchers in understanding the 
 ### Setup
 
 1. Clone this repository.
-2. Open `MouseJacking-RF-Nano.ino` in the Arduino IDE.
+2. Open `MouseJacking-RF-Nano-V3.ino` in the Arduino IDE.
 3. Upload the sketch to your Arduino Nano.
 
 ### Tools
