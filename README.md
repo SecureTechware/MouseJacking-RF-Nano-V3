@@ -13,7 +13,7 @@ This project is intended to educate and assist researchers in understanding the 
 
 ## Learn More
 
-If you're interested in mastering HID-based wireless security techniques, including how to use the RF-NANO for MouseJacking attacks, check out my course:  
+If you're interested in mastering HID-based wireless security techniques, including how to use the RF-NANO for MouseJacking attacks, explore this comprehensive course:  
 [![Udemy Course](https://img.shields.io/badge/Udemy-Course-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/ethical-hacking-with-hid-devices-v2/?referralCode=D8F750ADC921F5130BEE)
 
 ---
