@@ -10,6 +10,13 @@ This project is intended to educate and assist researchers in understanding the 
 </div>
   ---
 
+## Learn More
+
+If you're interested in mastering HID-based wireless security techniques, including how to use the RF-NANO for MouseJacking attacks, check out:  
+[Hacking Wireless Keyboards & Mice: 2.4GHz Exploit HID 2.0v](https://www.udemy.com/course/ethical-hacking-with-hid-devices-v2/?referralCode=D8F750ADC921F5130BEE)
+
+---
+
 ## Getting Started
 
 ### Requirements
