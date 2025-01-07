@@ -8,12 +8,13 @@ This project is intended to educate and assist researchers in understanding the 
 <div align="center">
 <img src="images/1.png" alt="RF-Nano" />
 </div>
-  ---
+
+---
 
 ## Learn More
 
-If you're interested in mastering HID-based wireless security techniques, including how to use the RF-NANO for MouseJacking attacks, check out:  
-[Hacking Wireless Keyboards & Mice: 2.4GHz Exploit HID 2.0v](https://www.udemy.com/course/ethical-hacking-with-hid-devices-v2/?referralCode=D8F750ADC921F5130BEE)
+If you're interested in mastering HID-based wireless security techniques, including how to use the RF-NANO for MouseJacking attacks, check out my course:  
+[![Udemy Course](https://img.shields.io/badge/Udemy-Course-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/ethical-hacking-with-hid-devices-v2/?referralCode=D8F750ADC921F5130BEE)
 
 ---
 
